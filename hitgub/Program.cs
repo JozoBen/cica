@@ -10,6 +10,7 @@ namespace hitgub
     {
         static void Main(string[] args)
         {
+            int x = 666;
         }
     }
 }
