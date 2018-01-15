@@ -1,0 +1,6 @@
+c:\users\dmjozben3\documents\visual studio 2015\Projects\hitgub\hitgub\bin\Debug\hitgub.exe.config
+c:\users\dmjozben3\documents\visual studio 2015\Projects\hitgub\hitgub\bin\Debug\hitgub.exe
+c:\users\dmjozben3\documents\visual studio 2015\Projects\hitgub\hitgub\bin\Debug\hitgub.pdb
+c:\users\dmjozben3\documents\visual studio 2015\Projects\hitgub\hitgub\obj\Debug\hitgub.csprojResolveAssemblyReference.cache
+c:\users\dmjozben3\documents\visual studio 2015\Projects\hitgub\hitgub\obj\Debug\hitgub.exe
+c:\users\dmjozben3\documents\visual studio 2015\Projects\hitgub\hitgub\obj\Debug\hitgub.pdb
