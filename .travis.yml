@@ -2,4 +2,4 @@ language: csharp
 solution: hitgub.sln
 install: 
 	-sudo apt-get install -y gtk-sharp2
-	-buget restore hitgub.sln
+	-nuget restore hitgub.sln
